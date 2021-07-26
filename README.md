@@ -1,3 +1,4 @@
 # naive-bayes
 
-Utilização de algoritmos práticos através da abordagem probabilística em uma aprendizagem supervisionada Bayesiana mediante dados generalizados.
+Nesse repositório trabalharemos com a utilização de algoritmos práticos através da abordagem probabilística condicional (Teorema de Bayes) em uma aprendizagem supervisionada, mediante dados generalizados de créditos.
+
