@@ -1,4 +1,4 @@
 # Naive Bayes
 
-Nesse repositório trabalharemos com a utilização de algoritmos práticos através da abordagem probabilística condicional (Teorema de Bayes) em uma aprendizagem supervisionada, mediante dados generalizados de créditos.
+This repository explores the application of practical algorithms using a conditional probabilistic approach (Bayes' Theorem) for supervised learning, focusing on generalized credit data.
 
